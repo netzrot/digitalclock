@@ -1,24 +1,12 @@
-div {
-	height: 300px;
-	background-color: #eaebed;
-	margin-width: auto;
-	
-}
-
 p {
 	color: #bbc103;
 	text-align: center;
 	font-size: 4em;
-	padding-top: 110px;
 	font-family: Consolas, Serif;
 	font-weight: bold;
-	
+	background-color: #dbdde0;
+	margin: auto;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
-width: 400px;
-	
-	
-
-	font-size: 3em;
-	font-color: grey;
-	border: 1px dotted white;
