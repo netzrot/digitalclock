@@ -8,5 +8,8 @@ p {
 	margin: auto;
 	padding-left: 10px;
 	padding-right: 10px;
+	margin-left: 400px;
+	margin-right: 400px;
+	text-shadow: 2px 2px #7e7f82;
 }
 
