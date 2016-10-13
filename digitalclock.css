@@ -1,15 +1,16 @@
 p {
-	color: #bbc103;
+	color: white;
 	text-align: center;
 	font-size: 4em;
 	font-family: Consolas, Serif;
 	font-weight: bold;
-	background-color: #dbdde0;
+	background-color: black;
 	margin: auto;
 	padding-left: 10px;
 	padding-right: 10px;
 	margin-left: 400px;
 	margin-right: 400px;
 	text-shadow: 2px 2px #7e7f82;
+	border-radius: 25px;
 }
 
